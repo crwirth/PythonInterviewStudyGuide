@@ -17,25 +17,24 @@ Can use constructor function, list()
 
 ### Membership
 - Can check for membership with in:
-`
+```python
 if "taco" in foods:
     print("Yum!")
 
 if "cheese" not in foods:
     print("Oh no!")
-`
+```
 
 ### Retrieving By Index
 - Can retrieve/mutate item with [n]:
-`
+```python
 print(fav_foods[0])
 fav_foods[0] = "taco"
-`
-`
+```
+```python
 fav_foods[-1]   # last item
 fav_foods[-3]   # third from end
-`
-
+```
 
 ## 
 
