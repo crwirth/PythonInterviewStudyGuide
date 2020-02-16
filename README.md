@@ -13,7 +13,9 @@ foo = = ['a', 'b', 'c']
 
 Can use constructor function, list()
 
-`letters = list("apple")   # ['a', 'p', 'p', 'l', 'e']`
+```python
+letters = list("apple")   # ['a', 'p', 'p', 'l', 'e']
+```
 
 ### Membership
 - Can check for membership with in:
